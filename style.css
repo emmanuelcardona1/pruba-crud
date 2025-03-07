@@ -1,0 +1,40 @@
+
+.barra-navegacion{
+    display: flex;
+    width: 30%;
+    height: 670px ;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #747272;
+    color: #fff;
+    padding: 20px;
+    flex-direction: column;
+    border-radius: 12px;
+    
+}
+.barra-navegacion button{
+    color: #717171;
+    border: none;
+    color: rgb(66, 66, 66);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+
+}
+.carrera-de-caballos{
+    display: flex;
+    width: 65%;
+    height: 300px ;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #747272;
+    color: #fff;
+    padding: 20px;
+    flex-direction: column;
+    border-radius: 12px;
+}
